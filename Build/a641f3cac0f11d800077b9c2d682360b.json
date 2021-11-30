@@ -1,0 +1,14 @@
+{
+"companyName": "Team ADD",
+"productName": "Fire Sale",
+"dataUrl": "720992d5b42dd970dbc9e94379dbc1df.unityweb",
+"asmCodeUrl": "628366eede938f84c4591dc37da9032f.unityweb",
+"asmMemoryUrl": "eaea48a990b158d03411b3432247e32e.unityweb",
+"asmFrameworkUrl": "0b3e84a96e59a9ac284db2337e6ef445.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
